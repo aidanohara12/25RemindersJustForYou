@@ -1,4 +1,3 @@
-import React from 'react';
 import styles from './25Things.module.css';
 import Box from './Box';
 
