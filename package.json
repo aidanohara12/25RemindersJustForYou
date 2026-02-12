@@ -1,6 +1,7 @@
 {
   "name": "25remindersjustforyou",
   "private": false,
+  "homepage": "https://aidanohara12.github.io/25RemindersJustForYou/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
